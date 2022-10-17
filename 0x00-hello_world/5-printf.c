@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main=prints a text
- *
+ * main - Size is not grandeur
  * Return: Always 0 (Success)
  */
 
