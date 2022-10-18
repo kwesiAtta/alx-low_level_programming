@@ -1,15 +1,16 @@
 #include "main.h"
+#include <unistdio>
 
 /**
  * jack_bauer - every minute of the day
  *
  */
 
-void jack_bauer(void);
+void jack_bauer(void)
 {
 	int hr, min;
 
-	for (hr = 0; hr <= 23; h++)
+	for (hr = 0; hr <= 23; hr++)
 	{
 		for (min = 0; min <= 59; min++)
 		{
