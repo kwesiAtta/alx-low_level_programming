@@ -6,12 +6,12 @@
  * @b: desired value
  * @n: number of bytes to be changed
  *
- * Return: changed array with new value of n bytes
+ * Return: a string
  */
 
 char *_memset(char *s, char b, unsigned int n)
 {
-	unassigned int a;
+	unsigned int a;
 
 	for (a = 0; a < n; a++)
 	{
