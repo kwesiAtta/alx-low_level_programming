@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the main of the file progam
- * Retun: Always 0
+ * main - prints the name of the file progam was compiled from
+ * Return: Always 0
  *
  */
 int main(void)
